@@ -3,7 +3,7 @@
 **Das lokale DSGVO-Gateway für die Arbeit mit US-KI-Modellen.**
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)
+![Node](https://img.shields.io/badge/node-22.23.4%2B%20%7C%2024.22.1%2B%20%7C%2026.12.1%2B-brightgreen.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue.svg)
 ![Runtime-Dependencies](https://img.shields.io/badge/runtime%20deps-0-brightgreen.svg)
 
@@ -35,7 +35,7 @@ im Dashboard abschaltbar.
 
 ## Voraussetzungen
 
-- Node.js ≥ 20 (getestet mit v22).
+- Node.js 22.23.4+, 24.22.1+ oder 26.12.1+ (getestet mit v26.12.1).
 
 ## Installation & Start
 
