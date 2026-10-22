@@ -127,6 +127,10 @@ npm run test:watch
 npm run build     # TypeScript nach dist/
 ```
 
+**Node-Versionen:** `engines` lässt nur die gepatchten Stände zu (`^22.23.4 || ^24.22.1 || >=26.12.1`,
+Node.js-Sicherheits-Release vom 21.10.2026). Bei jedem Node.js-Sicherheits-Release werden `engines` in
+`package.json`, das Badge und die Angabe unter „Voraussetzungen“ gemeinsam angehoben.
+
 ## Umfang & Grenzen (v1)
 
 **Enthalten:** Base-URL-Reverse-Proxy für OpenAI und Anthropic, Regel- und
